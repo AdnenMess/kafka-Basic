@@ -5,7 +5,7 @@
 
 Go to :
 
-2- cd opt/bitnami/kafka/bin/
+2- `cd opt/bitnami/kafka/bin/`
 
 ## Create Topic
 `./kafka-topics.sh --create --topic mytesttopic --bootstrap-server localhost:9092`
