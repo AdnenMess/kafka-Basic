@@ -2,7 +2,9 @@
 
 ## Lanch Kafka CLI
 1- `winpty docker exec -it kafka-basic-kafka-1 bash`
+
 Go to :
+
 2- cd opt/bitnami/kafka/bin/
 
 ## Create Topic
