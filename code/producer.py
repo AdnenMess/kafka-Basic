@@ -1,5 +1,6 @@
 
 from kafka import KafkaProducer
+# pip install kafka-python
 
 # Create Message
 msg = 'Hello this is a test message'
